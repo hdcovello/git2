@@ -29,6 +29,8 @@ public class MyList {
       newArray[i + 1] = this.array[i];
     }
     this.array = newArray;
+    
+    hello jereahtrt adgpoasgpho 	tigsfkl;fgioagrh e I;;
   }
 
   /**
